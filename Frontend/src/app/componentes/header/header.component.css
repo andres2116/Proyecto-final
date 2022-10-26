@@ -1,0 +1,12 @@
+#header{
+    background-color: #752349;
+    align-items: center; 
+    justify-content: space-between;
+    display: flex;  
+}
+#login{
+    margin-left: 1px;
+    float: right;
+    margin-top: 3px;
+    color: black;
+}
